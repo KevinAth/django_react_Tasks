@@ -1,0 +1,25 @@
+# Node / React
+/node_modules
+npm-debug.log
+yarn-error.log
+/.pnp
+.pnp.js
+
+# Build files
+/build
+
+# Django
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db.sqlite3
+*.db
+
+# Virtualenv
+.env
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
